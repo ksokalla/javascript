@@ -34,8 +34,8 @@ var nowa = -5;
 
 var nowa1 = 0;
 
-function warunek(liczba) {
-	
+function warunek(liczba) { // parametr 'liczba' powinien być unikalny
+						  // parametr 'liczba' obowiązuje tylko    //wewnątrz funkcji. można definiować jego wartość - 'skladowaWynik', 'nowa' 'nowa1' i inne //
 	if (liczba >= 0) {
 	
 		console.log("wieksze")
@@ -47,6 +47,6 @@ function warunek(liczba) {
 	
 }
 
-warunek(skladowaWynik);
+warunek(skladowaWynik); // wywołanie funckcji
 warunek(nowa);
-warunek(nowa1);
+warunek(nowa1);	
