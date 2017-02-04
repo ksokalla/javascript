@@ -1,7 +1,7 @@
 'use strict';
 
 /*
-jak nie robić w JaVascript - zmienne powinny mieć inne nazwy niż parametry - zawsze używajmy zmiennych lokalnych w funkcji
+jak nie robić w JavaScript - zmienne powinny mieć inne nazwy niż parametry - zawsze używajmy zmiennych lokalnych w funkcji
 */
 
 
